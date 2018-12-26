@@ -14,6 +14,7 @@
 1.[HAI官網](http://www.hangkei.ai/HAI/)
 
 2.HAI白皮書
+
 2.1[简体中文](http://www.hangkei.ai/HAI/zh_CN/HAI_whitepaper_zh_CN.pdf)
 
 2.2[繁體中文](http://www.hangkei.ai/HAI/HAI_whitepaper_zh_HK.pdf)
@@ -26,9 +27,8 @@
 
 [上線政策](https://haichain.github.io/HAIDoc/Policy/)
 
-礦池群APP使用教程
-HowToUse01_ZH-CN.mp4
-HowToUse02_ZH-CN.mp4
+[礦池群APP使用教程1](https://haichain.github.io/HAIDoc/Media/HowToUse01_ZH-CN.mp4)
+[礦池群APP使用教程2](https://haichain.github.io/HAIDoc/Media/HowToUse02_ZH-CN.mp4)
 
 客服郵箱
 haisupport@hangkei.ai
