@@ -3,8 +3,7 @@
 介紹視頻
 MeetHAI.mp4
 
-恆智鏈基礎概況
-/HAIIntro
+[恆智鏈基礎概況](https://haichain.github.io/HAIDoc/HAIIntro/)
 
 HAI礦池所機制
 /WorkingsOfHAI
