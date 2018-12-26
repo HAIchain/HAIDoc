@@ -1,6 +1,7 @@
 # HAIDoc
 
 介紹視頻
+
 [国内](https://haichain.github.io/HAIDoc/MeetHAI.mp4)
 [Youtube](https://youtu.be/514zk1YKKH0)
 
@@ -18,6 +19,7 @@
 2.2[繁體中文](http://www.hangkei.ai/HAI/HAI_whitepaper_zh_HK.pdf)
 
 3.HAI智能合約
+
 [以太坊智能合约查询地址](https://etherscan.io/token/0x8b54659df7b719cb9b5212211d2d24b0a5d35605)
 
 [HAI機制重點問題解答](https://haichain.github.io/HAIDoc/FAQ/)
