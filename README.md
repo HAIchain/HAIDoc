@@ -2,7 +2,7 @@
 
 ## 介紹視頻
 
-[国内](https://haichain.github.io/HAIDoc/Media/MeetHAI.mp4)
+[国内](https://haichain.github.io/playMeetHAI/)
 
 [Youtube](https://youtu.be/514zk1YKKH0)
 
