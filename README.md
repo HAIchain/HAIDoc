@@ -2,7 +2,8 @@
 
 ## 介紹視頻
 
-[国内](https://haichain.github.io/HAIDoc/MeetHAI.mp4)
+[国内](https://haichain.github.io/HAIDoc/Media/MeetHAI.mp4)
+
 [Youtube](https://youtu.be/514zk1YKKH0)
 
 [恆智鏈基礎概況](https://haichain.github.io/HAIDoc/HAIIntro/)
