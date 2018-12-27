@@ -1,14 +1,14 @@
-# HAIDoc
+# HAIDocuments
 
 ## 介紹視頻
 
-[国内](https://haichain.github.io/HAIDoc/playMeetHAI/)
+[国内](https://haichain.github.io/HAIDocuments/playMeetHAI/)
 
 [Youtube](https://youtu.be/514zk1YKKH0)
 
-[恆智鏈基礎概況](https://haichain.github.io/HAIDoc/HAIIntro/)
+[恆智鏈基礎概況](https://haichain.github.io/HAIDocuments/HAIIntro/)
 
-[HAI礦池所機制](https://haichain.github.io/HAIDoc/WorkingsOfHAI/)
+[HAI礦池所機制](https://haichain.github.io/HAIDocuments/WorkingsOfHAI/)
 
 ## 全球公開資料信息
 
@@ -24,15 +24,15 @@
 
 [以太坊智能合约查询地址](https://etherscan.io/token/0x8b54659df7b719cb9b5212211d2d24b0a5d35605)
 
-[HAI機制重點問題解答](https://haichain.github.io/HAIDoc/FAQ/)
+[HAI機制重點問題解答](https://haichain.github.io/HAIDocuments/FAQ/)
 
-[上線政策](https://haichain.github.io/HAIDoc/Policy/)
+[上線政策](https://haichain.github.io/HAIDocuments/Policy/)
 
 ## 礦池群APP使用教程
 
-[礦池群APP使用教程1](https://haichain.github.io/HAIDoc/Media/HowToUse01_ZH-CN.mp4)
+[礦池群APP使用教程1](https://haichain.github.io/HAIDocuments/Media/HowToUse01_ZH-CN.mp4)
 
-[礦池群APP使用教程2](https://haichain.github.io/HAIDoc/Media/HowToUse02_ZH-CN.mp4)
+[礦池群APP使用教程2](https://haichain.github.io/HAIDocuments/Media/HowToUse02_ZH-CN.mp4)
 
 ## 客服郵箱
 
