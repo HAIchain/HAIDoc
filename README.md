@@ -30,9 +30,15 @@
 
 ## 礦池群APP使用教程
 
+### 国内
 [礦池群APP使用教程1](https://haichain.github.io/HAIDocuments/Media/HowToUse01_ZH-CN.mp4)
 
 [礦池群APP使用教程2](https://haichain.github.io/HAIDocuments/Media/HowToUse02_ZH-CN.mp4)
+
+### Youtube
+[礦池群APP使用教程1](https://youtu.be/FPLfXS-hhQQ)
+
+[礦池群APP使用教程2](https://youtu.be/9K_dlfC8FCU)
 
 ## 客服郵箱
 
