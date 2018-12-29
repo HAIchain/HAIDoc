@@ -42,7 +42,7 @@
 
 [礦池群APP使用教程2](https://youtu.be/9K_dlfC8FCU)
 
-[矿池投票、转币以及矿池升级流程](https://haichain.github.io/HAIDocuments/Media/RatTransUpgrd_ZH-CN.mp4)
+[矿池投票、转币以及矿池升级流程](https://youtu.be/QnLnQXEGmGU)
 
 ## 客服郵箱
 
