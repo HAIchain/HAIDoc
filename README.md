@@ -6,9 +6,9 @@
 
 [Youtube](https://youtu.be/514zk1YKKH0)
 
-[恆智鏈基礎概況](https://haichain.github.io/HAIDocuments/HAIIntro/)
+<!-- [恆智鏈基礎概況](https://haichain.github.io/HAIDocuments/HAIIntro/)
 
-[HAI礦池所機制](https://haichain.github.io/HAIDocuments/WorkingsOfHAI/)
+[HAI礦池所機制](https://haichain.github.io/HAIDocuments/WorkingsOfHAI/) -->
 
 ## 全球公開資料信息
 
