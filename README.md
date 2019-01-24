@@ -24,7 +24,7 @@
 
 [以太坊智能合约查询地址](https://etherscan.io/token/0x8b54659df7b719cb9b5212211d2d24b0a5d35605)
 
-[HAI機制重點問題解答](https://haichain.github.io/HAIDocuments/FAQ/)
+<!-- [HAI機制重點問題解答](https://haichain.github.io/HAIDocuments/FAQ/)
 
 [上線政策](https://haichain.github.io/HAIDocuments/Policy/)
 
@@ -42,7 +42,7 @@
 
 [礦池群APP使用教程2](https://youtu.be/9K_dlfC8FCU)
 
-[矿池投票、转币以及矿池升级流程](https://youtu.be/QnLnQXEGmGU)
+[矿池投票、转币以及矿池升级流程](https://youtu.be/QnLnQXEGmGU) -->
 
 ## 客服郵箱
 
