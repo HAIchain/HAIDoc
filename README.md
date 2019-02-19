@@ -22,7 +22,7 @@
 
 ## 3.HAI智能合約
 
-[以太坊智能合约查询地址](https://etherscan.io/token/0x8b54659df7b719cb9b5212211d2d24b0a5d35605)
+[以太坊智能合约查询地址](https://etherscan.io/token/0x136723300aef2aAB4b7cF52c3Eaac6F997e12a68)
 
 <!-- [HAI機制重點問題解答](https://haichain.github.io/HAIDocuments/FAQ/)
 
